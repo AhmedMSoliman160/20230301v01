@@ -1,0 +1,173 @@
+@font-face {
+  font-family: "Graphik-medium";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium.eot");
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium.woff") format("woff"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium.ttf") format("truetype"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium.svg#GraphikArabic-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Graphik-semi";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.eot");
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.eot");
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.woff") format("woff"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.ttf") format("truetype"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-SemiBold.svg#GraphikArabic-SemiBold")
+      format("svg");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Super";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Super-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Super-Web.woff") format("woff");
+  font-weight: 1000;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Super-Web {
+  font-family: "Graphik Arabic Web Super";
+  font-weight: 1000;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Black";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Black-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Black-Web.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Black-Web {
+  font-family: "Graphik Arabic Web Black";
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Bold";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Bold-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Bold-Web.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Bold-Web {
+  font-family: "Graphik Arabic Web Bold";
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Semibold";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Semibold-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Semibold-Web.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Semibold-Web {
+  font-family: "Graphik Arabic Web Semibold";
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Medium";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Medium-Web.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Medium-Web {
+  font-family: "Graphik Arabic Web Medium";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Regular";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Regular-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Regular-Web.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Regular-Web {
+  font-family: "Graphik Arabic Web Regular";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Light";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Light-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Light-Web.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Light-Web {
+  font-family: "Graphik Arabic Web Light";
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Extralight";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Extralight-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Extralight-Web.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Extralight-Web {
+  font-family: "Graphik Arabic Web Extralight";
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Graphik Arabic Web Thin";
+  src: url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Thin-Web.woff2") format("woff2"),
+    url("https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/assets/dist/fonts/GraphikArabic-Thin-Web.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.GraphikArabic-Thin-Web {
+  font-family: "Graphik Arabic Web Thin";
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+}

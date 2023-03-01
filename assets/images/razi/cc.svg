@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.001" height="26" viewBox="0 0 23.001 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="23" height="16" transform="translate(0 0.063)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_777" data-name="Group 777" transform="translate(-10100 -3294.465)">
+    <g id="Group_776" data-name="Group 776" transform="translate(10100 3294.67)">
+      <rect id="Rectangle_51" data-name="Rectangle 51" width="23" height="26" rx="11.5" transform="translate(0 -0.205)" fill="#fff"/>
+      <g id="Mask_Group_24" data-name="Mask Group 24" transform="translate(0 5.732)" clip-path="url(#clip-path)">
+        <path id="noun-cardiogram-1549338" d="M74.368-.007H88.977c1.09,0,2.624-.1,3.335.8.734.93.648,2.838.648,4.247v9.249h-5.5L86.33,10.6a.881.881,0,0,0-.356-.479.665.665,0,0,0-1,.395l-3.136,7.67L79.479,8.171a.845.845,0,0,0-.378-.565c-.356-.254-.8-.085-1,.395l-2.6,6.288H69.96V5.039c0-1.41-.175-3.317.537-4.247C71.23-.111,74.345.176,74.368-.007ZM92.957,16.206V24.1a5.659,5.659,0,0,1-1.179,3.553,3.552,3.552,0,0,1-2.8,1.5H73.94a3.551,3.551,0,0,1-2.8-1.494A5.66,5.66,0,0,1,69.96,24.1v-7.9h5.983a.782.782,0,0,0,.689-.592l1.935-4.681,2.38,10.038c.111.508.534.789.912.62a.726.726,0,0,0,.466-.508l3.2-7.867.734,2.368a.865.865,0,0,0,.713.62h5.983Z" transform="translate(-69.957 -6.359)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Rectangle_53" data-name="Rectangle 53" d="M3.887,0H19.113A3.887,3.887,0,0,1,23,3.887V7.451L12.292,6.819,0,7.451V3.887A3.887,3.887,0,0,1,3.887,0Z" transform="translate(10100 3294.67)"/>
+    <path id="Rectangle_54" data-name="Rectangle 54" d="M0,0H23V1.3a3.887,3.887,0,0,1-3.887,3.887H3.887A3.887,3.887,0,0,1,0,1.3Z" transform="translate(10100 3315.282)"/>
+  </g>
+</svg>

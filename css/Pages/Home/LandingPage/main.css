@@ -1,0 +1,316 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap'); */
+body {
+  padding: 0;
+  margin: 0 auto;
+  height: 100vh;
+  background: #fff;
+  color:#003333;
+  display: grid;
+  font-family: 'Graphik Arabic';
+}
+/********** Header **********/
+#header {
+    height: 85vh;
+    /*background: url(../img/MicrosoftTeams-image.png) center center/cover;*/
+    background: url(../../../../images/Pages/Home/LandingPage/MicrosoftTeams-image.png) center center/cover;
+}
+
+.esaal_header {
+  font-family: 'Graphik Arabic';
+  font-weight: bold;
+  font-size: 100px;
+  color: #ffffff;
+}
+.esaal_sub_header {
+  font-family: 'Graphik Arabic';
+  font-weight: 400px;
+  font-size: 60px;
+  color: #ffffff;
+}
+/********** Section 1 ************/
+
+.container {
+  margin-top: 40px;
+}
+
+.section-title {
+  margin-bottom: 38px;
+}
+
+.shadow,
+.subscription-wrapper {
+  box-shadow: 0px 15px 39px 0px rgba(8, 18, 109, 0.1) !important;
+}
+
+.icon-primary {
+  color: #062caf;
+}
+
+.icon-bg-circle {
+  position: relative;
+}
+
+.icon-lg {
+  font-size: 100px;
+}
+
+.icon-bg-circle::before {
+  z-index: 1;
+  position: relative;
+}
+
+.icon-bg-primary::after {
+  background: #062caf !important;
+}
+
+.icon-bg-circle::after {
+  content: "";
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: -35px;
+  left: 15px;
+  border-radius: 50%;
+  background: inherit;
+  opacity: 0.1;
+}
+
+.icon-bg-yellow::after {
+  background: #f6a622 !important;
+}
+
+.icon-bg-purple::after {
+  background: #7952f5;
+}
+
+.icon-yellow {
+  color: #11cc53;
+}
+
+.icon-purple {
+  color: #7952f5;
+}
+
+.icon-cyan {
+  color: #02d0a1;
+}
+
+.icon-bg-cyan::after {
+  background: #02d0a1;
+}
+
+.icon-bg-red::after {
+  background: #ff4949;
+}
+
+.icon-red {
+  color: #ff4949;
+}
+
+.icon-bg-green::after {
+  background: #004f4f;
+}
+
+.icon-green {
+  color: #004f4f;
+}
+
+.icon-bg-orange::after {
+  background: #ff7c17;
+}
+
+.icon-orange {
+  color: #ff7c17;
+}
+
+.icon-bg-blue::after {
+  background: #3682ff;
+}
+
+.icon-blue {
+  color: #3682ff;
+}
+
+/********** End Section 1 ************/
+
+.dr_img {
+  border-radius: 50% 50%;
+  width: 40%;
+  border: 5px solid #fff;
+}
+.Ehgz {
+  font-size: 22px;
+  background-color: white;
+  border: 1px solid;
+  color: #3fbca1;
+  padding: 10px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+.main{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  align-content: center;
+  flex-wrap: wrap;
+}
+.profile-card{
+  position: relative;
+  font-family: 'Graphik Arabic';
+  width:270px;
+  /* height: 270px; */
+  background: #fff;
+  padding: 30px;
+  /* border-radius: 50%; */
+  box-shadow: 0 0 10px #3336;
+  transition: .6s;
+  border-radius: 10px;
+  height: 350px;
+  margin: 10px auto;
+}
+/* .profile-card:hover{
+  border-radius: 10px;
+  height: 350px;
+} */
+.profile-card .img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: .6s;
+  z-index: 99;
+  transform: translateY(-60px);
+}
+.profile-card:hover .img{
+  
+}
+.img img{
+  width: 100%;
+  /* border-radius: 50%; */
+  /* box-shadow: 0 0 22px #3336; */
+  transition: .6s;
+  border-radius: 10px;
+}
+.profile-card:hover img{
+ 
+}
+.caption{
+  text-align: center;
+  transform: translateY(-80px);
+  opacity: 1;
+  transition: .6s;
+  margin-top: -37px;
+}
+/* .profile-card:hover .caption{
+  opacity: 1;
+} */
+.caption h3{
+  font-size: 27px;
+  font-family: 'Graphik Arabic';
+}
+.caption p{
+  font-size: 19px;
+  color: #888888;
+  font-family: 'Graphik Arabic';
+  margin: 2px 0 9px 0;
+}
+/********** Section 3 ************/
+
+  /* CSS talk bubble */
+  .talk-bubble {
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    width: 65%;
+    height: auto;
+    border-radius: 10px;
+    background-color: #3fbca1;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+  }
+  .border {
+    border: 8px solid #666;
+  }
+  .round {
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+  }
+
+  /* Right triangle placed top left flush. */
+  .tri-right.border.left-top:before {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -40px;
+    right: auto;
+    top: -8px;
+    bottom: auto;
+    border: 32px solid;
+    border-color: #3fbca1 transparent transparent transparent;
+  }
+  .tri-right.left-top:after {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -20px;
+    right: auto;
+    top: 0px;
+    bottom: auto;
+    border: 22px solid;
+    border-color: #3fbca1 transparent transparent transparent;
+  }
+
+  /* Right triangle placed top right flush. */
+  .tri-right.border.right-top:before {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: auto;
+    right: -40px;
+    top: -8px;
+    bottom: auto;
+    border: 32px solid;
+    border-color: #3fbca1 transparent transparent transparent;
+  }
+  .tri-right.right-top:after {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: auto;
+    right: -20px;
+    top: 0px;
+    bottom: auto;
+    border: 20px solid;
+    border-color: #3fbca1 transparent transparent transparent;
+  }
+
+/********** End Section 3 ************/
+
+@media only screen and (max-width: 700px) {
+    #header {
+        /*background: url(../img/MicrosoftTeams-image2.jpg) center center/cover;*/
+        background: url(../../../../images/Pages/Home/LandingPage/MicrosoftTeams-image2.jpg) center center/cover;
+    }
+  .esaal_header {
+    font-size: 44px;
+  }
+  .logo{
+    width:180px;
+  }
+}
+
+
+

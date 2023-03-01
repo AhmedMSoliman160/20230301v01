@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.331" height="33.369" viewBox="0 0 30.331 33.369">
+  <g id="Group_109" data-name="Group 109" transform="translate(-5986.7 -367.073)">
+    <g id="Group_110" data-name="Group 110" transform="translate(5986.7 367.015)">
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 0.059)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="7.5" fill="none"/>
+      </g>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M27.329,28.55H24.843v-4.2H2.508v4.2H0V12.711a1.218,1.218,0,0,1,1.22-1.243,1.292,1.292,0,0,1,.492.1,1.316,1.316,0,0,1,.411.267,1.208,1.208,0,0,1,.385.88v8.63H24.843V15.23a1.243,1.243,0,1,1,2.486,0V28.55Zm-3.4-8.17H8.6V14.868L22.4,14.857a1.526,1.526,0,0,1,1.072.434,1.5,1.5,0,0,1,.453,1.059Zm-17.094,0H4.123a.938.938,0,1,1,0-1.875H6.836a.938.938,0,1,1,0,1.875Zm-.971-2.44a1.914,1.914,0,1,1,1.349-.561,1.914,1.914,0,0,1-1.349.561ZM22.37,13.489H20.844L19.692,9.637h-.8l1.117,3.842H13.919l1.12-3.842h-.8L13.1,13.49H11.557l1.525-5.016A2.386,2.386,0,0,1,13.75,7.46a2.285,2.285,0,0,1,.639-.416,2.169,2.169,0,0,1,.841-.174l3.5.011a2.181,2.181,0,0,1,1.453.593,2.313,2.313,0,0,1,.648,1l1.537,5.016ZM16.947,6.349a1.794,1.794,0,1,1,1.271-.525,1.794,1.794,0,0,1-1.271.525Zm1.864-3.344h0a2.337,2.337,0,0,0-3.683-.011l-.994-1.819a3.735,3.735,0,0,1,.678-.542A4.159,4.159,0,0,1,15.55.27,4.108,4.108,0,0,1,16.958,0,4.521,4.521,0,0,1,18.4.267a3.548,3.548,0,0,1,1.4.861l-.983,1.877ZM16.122.78v.565h.554v.542h.554V1.334h.554V.78h-.554V.226h-.554V.78Z" transform="translate(3.002 4.877)"/>
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M14.945,13.885h0l0-7.724V0a6.942,6.942,0,0,1,0,13.885Z" transform="translate(-6.957 1.053)"/>
+      <text id="_12" data-name="12" transform="translate(8.337 8.732)" fill="#fff" font-size="4" font-family="GraphikArabic-Medium, Graphik Arabic" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+      <text id="_12-2" data-name="12" transform="translate(8.337 8.732)" fill="#fff" font-size="4" font-family="GraphikArabic-Medium, Graphik Arabic" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+    </g>
+  </g>
+</svg>

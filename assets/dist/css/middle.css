@@ -1,0 +1,161 @@
+﻿#myButton {
+    cursor: pointer;
+    font: inherit;
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    right: 41%;
+    bottom: 25px;
+}
+
+@media (max-device-width: 339px) {
+    #myButton {
+        right: 13% !important;
+    }
+}
+
+@media (min-device-width: 340px) and (max-device-width: 375px) {
+    #myButton {
+        right: 17% !important;
+    }
+}
+
+@media (min-device-width: 376px) and (max-device-width: 419px) {
+    #myButton {
+        right: 20% !important;
+    }
+}
+
+@media (min-device-width: 420px) and (max-device-width: 430px) {
+    #myButton {
+        right: 22% !important;
+    }
+}
+
+@media (min-device-width: 431px) and (max-device-width: 470px) {
+    #myButton {
+        right: 23% !important;
+    }
+}
+
+@media (min-device-width: 471px) and (max-device-width: 520px) {
+    #myButton {
+        right: 27% !important;
+    }
+}
+
+@media (min-device-width: 521px) and (max-device-width: 600px) {
+    #myButton {
+        right: 29% !important;
+    }
+}
+
+@media (min-device-width: 601px) and (max-device-width: 680px) {
+    #myButton {
+        right: 32% !important;
+    }
+}
+
+@media (min-device-width: 681px) and (max-device-width: 770px) {
+    #myButton {
+        right: 34% !important;
+    }
+}
+
+@media (min-device-width: 770px) and (max-device-width: 850px) {
+    #myButton {
+        right: 35% !important;
+    }
+}
+
+@media (min-device-width: 851px) and (max-device-width: 950px) {
+    #myButton {
+        right: 37% !important;
+    }
+}
+
+@media (min-device-width: 951px) and (max-device-width: 1000px) {
+    #myButton {
+        right: 37% !important;
+    }
+}
+
+@media (min-device-width: 1001px) and (max-device-width: 1130px) {
+    #myButton {
+        right: 39% !important;
+    }
+}
+
+@media (min-device-width: 1131px) and (max-device-width: 1269px) {
+    #myButton {
+        right: 40% !important;
+    }
+}
+
+@media (min-device-width: 1270px) and (max-device-width: 1300px) {
+    #myButton {
+        right: 41% !important;
+    }
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.BaseButton-mQq4 {
+    background-color: #00000094;
+    border-radius: 15px;
+    border: none;
+    /*background: transparent;*/
+    padding: 0;
+    margin: 0;
+}
+
+.buttonIconWrapper-FUFj {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: var(--border-radius-large);
+    background: var(--theme-color-video-controls);
+    transition: background var(--transition-button-hover);
+}
+
+.BaseIcon--sized-2utE {
+    height: 24px;
+    width: 24px;
+}
+
+.BaseIcon--meetingRed-3IsO {
+    fill: #e97676; /*/ var(--theme-color-icon-meeting-red);*/
+}
+
+.inner-2nxQ {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.label-2gnt {
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    -webkit-user-select: none;
+    user-select: none;
+    text-shadow: var(--drop-shadow-small);
+    margin-top: 13%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 48px;
+}

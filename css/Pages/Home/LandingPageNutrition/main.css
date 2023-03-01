@@ -1,0 +1,198 @@
+@import url(graphikarabic.css);
+* {
+  margin: 0;
+  padding: 0;
+  /* font-family: "Graphik Arabic Web Regular"; */
+}
+a:hover{
+  color: #000;
+}
+body{
+  background: #fff;
+  font-family: "Graphik Arabic Web Regular";
+}
+.logo { 
+  margin: 20px auto ;
+  width: 15%; 
+}
+
+.header {
+    background: url(../../../../images/Pages/Home/LandingPageNutrition/BG-design\ \(1\).jpg) center center/cover;
+    background-position: center center;
+    color: #fff;
+    margin-bottom: 30px;
+    height: 80vh;
+}
+
+.title{
+  color: black;
+  font-size: 25px;
+  font-family: "Graphik Arabic Web Semibold";
+}
+.border{
+  border: 1px solid #3fbca1 !important;
+  width: 7%;
+  display: inline-flex;
+}
+.sub{
+  font-family: "Graphik Arabic Web Semibold";
+  top: 10px;
+  position: relative;
+  font-size: 20px;
+}
+.card-body{
+  border: 1px solid #dddddd;
+  background-color: #f6f7f8;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  direction: rtl;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.sec{
+   border: 2px solid #C4C4C4;
+   border-radius: 10px;
+   margin: 1px auto;
+   width: 90%;
+   padding-bottom: 30px;
+}
+.profile-card{
+  position: relative;
+  /* font-family: 'Graphik Arabic'; */
+  width: 65%;
+  border: 1px solid #d6d6d6;
+  background: #fff;
+  padding: 13px;
+  /* box-shadow: 0 1px 5px #83968d; */
+  border-radius: 10px;
+  height: max-content;
+  margin: -1px auto 15px;
+  direction: rtl;
+  /* border: 1px solid #2a5340; */
+}
+.profile-card .img{
+  position: relative;
+  /* width: 100%; */
+  z-index: 99;
+  text-align: center;
+  /* margin: 20px auto; */
+}
+
+.img img{
+  width: 52%;
+  transition: .6s;
+  border-radius: 50%;
+  text-align: center;
+  border: 2px solid #e3e4e5;
+}
+
+.caption{
+  text-align: center;
+  opacity: 1;
+  margin: 10px auto -15px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Graphik Arabic Web Medium";
+  align-items: flex-start;
+}
+
+.caption h3{
+  font-size: 21px;
+  /* font-weight: 600; */
+  text-decoration: underline;
+  font-family: "Graphik Arabic Web Semibold";
+}
+.caption p{
+  font-size: 15px;
+  color: #000000;
+  font-family: "Graphik Arabic Web Medium";
+  margin: 2px 0 2px 0;
+}
+.Ehgz {
+  font-family: "Graphik Arabic Web Medium";
+  /* font-weight: 600; */
+  font-size: 16px;
+  background-color: #3fbca1;
+  /* border: 1px solid; */
+  color: #000000;
+  padding: 7px 55px;
+  border-radius: 8px;
+  text-decoration: none;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+@media only screen and (max-width: 414px) {
+  .header {
+   height: 42vh;
+  }
+  .logo {
+    margin: 20px auto;
+    width: 35%;
+   }
+   .row1 > * {
+    flex-shrink: 0;
+    width: 33%;
+    max-width: 100%;
+    margin:1px auto;
+  }
+  .row1{
+    align-items: center;
+  }
+  .profile-card{
+    width: 100%;
+  }
+  .img img{
+    width: 65%;
+   
+  }
+  .sub{
+    font-size: 17px;
+  }
+  .border{
+    width: 16%;
+  }
+  }
+@media only screen and (min-width: 414px)and (max-width: 700px) {
+  .logo {
+    margin: 20px auto;
+    width: 35%;
+   }
+   .border{
+    width: 25%;
+  }
+ 
+  .row1 > * {
+    flex-shrink: 0;
+    width: 33%;
+    max-width: 100%;
+    margin:1px auto;
+  }
+  .row1{
+    align-items: center;
+  }
+  .sub{
+    font-size: 18px;
+  }
+  .profile-card{
+    width: 90%;
+  }
+  .img img{
+    width: 65%;
+   
+  }
+}
+@media only screen and (min-width: 700px) and (max-width :1024px) {
+
+  .logo {
+    margin: 22px auto;
+    width: 25%;
+   }
+   /* .header {
+    height: 60vh;
+   } */
+ }
