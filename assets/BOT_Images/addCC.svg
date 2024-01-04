@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="21" viewBox="0 0 32 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="32" height="21" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-768 -238)">
+    <g id="mastercard-svgrepo-com" transform="translate(786 245.91)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.5" cy="2.5" r="2.5" transform="translate(0 5.09)" fill="#ea001b"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="2.5" cy="2.5" r="2.5" transform="translate(3 5.09)" fill="rgba(255,162,0,0.8)"/>
+    </g>
+    <g id="visa-svgrepo-com" transform="translate(711.803 103.032)">
+      <path id="Path_1" data-name="Path 1" d="M119.421,152.6l.607-3.561H121l-.607,3.561Zm4.477-3.485a2.507,2.507,0,0,0-.87-.15c-.959,0-1.635.483-1.641,1.175-.005.512.482.8.851.968s.5.286.5.442c0,.239-.3.348-.581.348a2.036,2.036,0,0,1-.914-.187l-.125-.057-.136.8a3.072,3.072,0,0,0,1.081.19c1.02,0,1.683-.478,1.69-1.217,0-.405-.255-.713-.815-.968-.339-.165-.547-.275-.545-.442,0-.148.176-.306.556-.306a1.791,1.791,0,0,1,.727.136l.087.041.132-.772m2.5-.077h-.75a.483.483,0,0,0-.508.3L123.7,152.6h1.019s.167-.439.2-.535l1.243,0c.029.125.118.534.118.534h.9l-.786-3.559Zm-1.19,2.3c.08-.205.387-1,.387-1s.08-.206.129-.34l.066.307.225,1.028h-.806Zm-6.609-2.3-.95,2.429-.1-.494a2.78,2.78,0,0,0-1.344-1.494l.869,3.115H118.1l1.528-3.555H118.6" transform="translate(-54.985)" fill="#0e4595"/>
+      <path id="Path_2" data-name="Path 2" d="M61.775,152.96H60.209l-.012.074a3.213,3.213,0,0,1,2.358,1.863l-.34-1.637a.406.406,0,0,0-.44-.3" transform="translate(0 -3.919)" fill="#f2ae14"/>
+    </g>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(768 238)" clip-path="url(#clip-path)">
+      <g id="noun-credit-card-plus-183470" transform="translate(-1 -25)">
+        <g id="Group_2" data-name="Group 2" transform="translate(2 26)">
+          <path id="Path_10" data-name="Path 10" d="M26.5,27A4.5,4.5,0,1,1,31,22.5,4.5,4.5,0,0,1,26.5,27Zm0-8A3.5,3.5,0,1,0,30,22.5,3.5,3.5,0,0,0,26.5,19Z" transform="translate(-2 -18)"/>
+          <path id="Path_11" data-name="Path 11" d="M28.5,23H27v1.5a.5.5,0,0,1-1,0V23H24.5a.5.5,0,0,1,0-1H26V20.5a.5.5,0,0,1,1,0V22h1.5a.5.5,0,0,1,0,1Z" transform="translate(-2 -18)"/>
+          <path id="Path_12" data-name="Path 12" d="M28,25H4a2,2,0,0,1-2-2V9A2,2,0,0,1,4,7H18.5a.5.5,0,0,1,0,1H4A1,1,0,0,0,3,9V23a1,1,0,0,0,1,1H28a1,1,0,0,0,1-1V17.5a.5.5,0,0,1,1,0V23A2,2,0,0,1,28,25Z" transform="translate(-2 -5)"/>
+          <path id="Path_13" data-name="Path 13" d="M8.5,18h-3a.5.5,0,0,0-.5.5H5a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5H9A.5.5,0,0,0,8.5,18Z" transform="translate(-2 -10)"/>
+          <path id="Path_14" data-name="Path 14" d="M16.5,21H5.5a.5.5,0,0,0-.5.5H5a.5.5,0,0,0,.5.5h11a.5.5,0,0,0,.5-.5h0A.5.5,0,0,0,16.5,21Z" transform="translate(-2 -16)"/>
+          <path id="Path_15" data-name="Path 15" d="M14.5,18h-3a.5.5,0,0,0-.5.5h0a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5h0A.5.5,0,0,0,14.5,18Z" transform="translate(-2 -10)"/>
+          <path id="Path_16" data-name="Path 16" d="M20.5,18h-3a.5.5,0,0,0-.5.5h0a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5h0A.5.5,0,0,0,20.5,18Z" transform="translate(-2 -10)"/>
+        </g>
+        <text id="Created_by_Musket" data-name="Created by Musket" transform="matrix(1, 0, 0, -1, 0, 6)" font-size="5" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Created by Musket</tspan></text>
+        <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="matrix(1, 0, 0, -1, 0, 1)" font-size="5" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
