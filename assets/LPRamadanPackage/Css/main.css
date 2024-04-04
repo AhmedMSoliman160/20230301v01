@@ -1,0 +1,464 @@
+@import url(graphikarabic.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  /* font-family: "Graphik Arabic Web Regular"; */
+}
+a:hover{
+  color: #000;
+}
+body{
+  background: #fff;
+  font-family: "Graphik Arabic Web Regular";
+}
+.logo { 
+  margin: 20px auto ;
+  width: 10%; 
+}
+
+
+
+.title{
+  color: black;
+  font-size: 25px;
+  font-family: "Graphik Arabic Web Semibold";
+}
+.border{
+  /* border: 1px solid #3fbca1 !important; */
+  width: 30%;
+  display: inline-flex;
+}
+.sub{
+  font-family: "Graphik Arabic Web bold";
+
+  font-size: 20px;
+  text-align: center;
+  visibility: hidden;
+}
+.sub2{
+  font-family: "Graphik Arabic Web Semibold";
+  
+  font-size: 16px;
+  color: #000;
+}
+.card-body{
+  border: 1px solid #dddddd;
+  background-color: #f6f7f8;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  direction: rtl;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.sec{
+   border: 2px solid #C4C4C4;
+   border-radius: 10px;
+   margin: 1px auto;
+   width: 90%;
+   padding-bottom: 30px;
+}
+.profile-card{
+  position: relative;
+  /* font-family: 'Graphik Arabic'; */
+  width: 65%;
+  border: 1px solid #d6d6d6;
+  background: #fff;
+  padding: 13px;
+  /* box-shadow: 0 1px 5px #83968d; */
+  border-radius: 20px;
+  height: max-content;
+  margin: -1px auto 15px;
+  direction: rtl;
+  /* border: 1px solid #2a5340; */
+}
+.profile-card .img{
+  position: relative;
+  /* width: 100%; */
+  z-index: 99;
+  text-align: center;
+  /* margin: 20px auto; */
+}
+
+.img img{
+  width: 52%;
+  transition: .6s;
+  border-radius: 50%;
+  text-align: center;
+  border: 2px solid #e3e4e5;
+}
+
+.caption{
+  text-align: center;
+  opacity: 1;
+  margin: 10px auto -15px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Graphik Arabic Web Medium";
+  align-items: flex-start;
+}
+
+.caption h3{
+  font-size: 21px;
+  /* font-weight: 600; */
+  text-decoration: underline;
+  font-family: "Graphik Arabic Web Semibold";
+}
+.caption p{
+  font-size: 15px;
+  color: #000000;
+  font-family: "Graphik Arabic Web Medium";
+  margin: 2px 0 2px 0;
+}
+.Ehgz {
+  font-family: "Graphik Arabic Web Medium";
+  /* font-weight: 600; */
+  font-size: 16px;
+  background-color: #09877C;
+  /* border: 1px solid; */
+  color: #fff;
+  padding: 7px 55px;
+  border-radius: 8px;
+  text-decoration: none;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+@media only screen and (max-width: 414px) {
+  .header {
+   height: 15vh;
+   background-size: contain;
+  }
+  .icon3{
+    width: 43% !important;
+  }
+  .logo {
+    margin: 20px auto;
+    width: 31%;
+   }
+   .row1 > * {
+    flex-shrink: 0;
+    width: 33%;
+    max-width: 100%;
+    margin:1px auto;
+  }
+  .row1{
+    align-items: center;
+  }
+  .profile-card{
+    width: 100%;
+  }
+  .img img{
+    width: 65%;
+   
+  }
+  .sub{
+    font-size: 17px;
+  }
+  .border{
+    width: 37%;
+  }
+  .sub2{
+    font-size: 11px;
+  }
+  .title{
+    font-size: 20px;
+  }
+  }
+@media only screen and (min-width: 415px)and (max-width: 700px) {
+  .logo {
+    margin: 20px auto;
+    width: 25%;
+   }
+   .sub2{
+    font-size: 14px;
+  }
+   .border{
+    width: 25%;
+  }
+ 
+  .row1 > * {
+    flex-shrink: 0;
+    width: 33%;
+    max-width: 100%;
+    margin:1px auto;
+  }
+  .row1{
+    align-items: center;
+  }
+  .sub{
+    font-size: 18px;
+  }
+  .profile-card{
+    width: 90%;
+  }
+  .img img{
+    width: 65%;
+   
+  }
+  .header {
+    height: 19vh;
+    background-size: contain;
+   }
+}
+@media only screen and (min-width: 700px) and (max-width :850px) {
+
+  .logo {
+    margin: 22px auto;
+    width: 25%;
+   }
+   .header {
+    height: 22vh;
+    background-size: contain;
+   }
+ }
+ @media only screen and (min-width: 851px) and (max-width :950px) {
+
+   .header {
+    height: 20vh;
+    background-size: contain;
+   }
+ }
+ @media only screen and (min-width: 951px) and (max-width :1281px) {
+
+   .header {
+    height: 40vh;
+   }
+ }
+
+       
+ .bg-landingpage {
+  background-image: url(../img/homepageD.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 80vh;
+  cursor: pointer;
+
+}
+
+.titlesec2 {
+  font-family: 'Graphik Arabic Web Bold';
+  font-size: 27px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+
+.section2 {
+  flex-direction: row-reverse;
+}
+
+.handle1 {
+  background-image: url(../img/01.jpg);
+  background-size: cover;
+  height: 49vh;
+  border-radius: 20px 20px 0 0;
+
+}
+
+.handle2 {
+  background-image: url(../img/03.jpg);
+  background-size: cover;
+  height: 49vh;
+  border-radius: 20px 20px 0 0;
+
+}
+
+.handle3 {
+  background-image: url(../img/04.jpg);
+  background-size: cover;
+  height: 49vh;
+  border-radius: 20px 20px 0 0;
+
+}
+
+.handle4 {
+  background-image: url(../img/05.jpg);
+  background-size: cover;
+  height: 49vh;
+  border-radius: 20px 20px 0 0;
+
+}
+
+.accordion>input[type="checkbox"] {
+  position: absolute;
+  left: -100vw;
+}
+
+.accordion .content {
+  overflow-y: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
+
+.accordion>input[type="checkbox"]:checked~.content {
+  height: auto;
+  overflow: visible;
+  direction: rtl;
+}
+
+.accordion label {
+  display: block;
+}
+
+.product-price {
+  margin: 1rem 0;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.product-price span {
+  font-weight: 400;
+}
+
+.last-price span {
+  color: #000000;
+  text-decoration: line-through;
+  font-size: larger;
+  top: 13px;
+  position: relative;
+}
+
+.new-price span {
+  color: #000;
+  font-size: 30px;
+  font-family: 'Graphik Arabic Web Semibold';
+}
+
+.purchase-info {
+  margin: 0.5rem 0;
+}
+
+.purchase-info input {
+  width: 60px;
+}
+
+.purchase-info .btn {
+  cursor: pointer;
+  color: #fff;
+}
+
+.purchase-info .btn:first-of-type {
+  background: #09877C;
+  border-radius: 10px;
+  width: 200px;
+  font-family: 'Graphik Arabic Web Semibold';
+  font-size: 19px;
+}
+
+
+.accordion>input[type="checkbox"]:checked~.content {
+  padding: 15px;
+  border: 1px solid #e8e8e8;
+  border-top: 0;
+}
+
+.accordion .handle {
+  margin: 0;
+  font-size: 1.125em;
+  line-height: 1.2em;
+  width: 100%;
+  margin: auto;
+  padding: 20px 0px 0 20px;
+ 
+}
+
+.accordion {
+  width: 75em;
+  
+}
+
+.accordion p:last-child {
+  margin-bottom: 0;
+}
+
+.btn-more {
+  background: #163e58;
+  padding: 10px;
+  border-radius: 0 0 20px 20px;
+  color: #fff;
+  font-family: 'Graphik Arabic Web Medium';
+  position: relative;
+  bottom: 13px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.benefits {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .bg-landingpage {
+      background-image: url(../img/home-rama.jpg);
+      background-size: 100%;
+      height: 54vh;
+  }
+
+  .section2 {
+      flex-direction: column;
+  }
+
+  .accordion .handle {
+      width: 100%;
+      padding: 20px 10px;
+  }
+
+  .benefits {
+      display: block;
+  }
+
+  .accordion {
+      max-width: 65em;
+      width: 100%;
+  }
+
+  .btn-more {
+      padding: 15px;
+  }
+
+  h3 {
+      font-size: 18px;
+  }
+
+  .titlesec2 {
+      font-size: 23px;
+      padding: 0 10px;
+  }
+  .header2{
+      padding: 0 10px 0 0;
+  }
+
+
+}
+
+@media (max-width: 400px) {
+  .bg-landingpage {
+      background-image: url(../img/home-rama.jpg);
+      background-size: 100%;
+      height: 55vh;
+  }
+}
+
+@media (max-width: 375px) {
+  .bg-landingpage {
+      background-image: url(../img/home-rama.jpg);
+      background-size: 100%;
+      height: 66vh;
+  }
+}
+
+@media (max-width: 360px) {
+  .bg-landingpage {
+      background-image: url(../img/home-rama.jpg);
+      background-size: 100%;
+      height: 58vh;
+  }
+}
