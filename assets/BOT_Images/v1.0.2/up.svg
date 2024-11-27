@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="24" height="24" transform="translate(1981 -1144)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_97" data-name="Group 97" transform="translate(-1992 1092)">
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(11 52)" clip-path="url(#clip-path)">
+      <g id="noun-price-range-4960922" transform="translate(1981 -1146.01)">
+        <g id="Group_94" data-name="Group 94" transform="translate(0 1.597)">
+          <path id="Path_70" data-name="Path 70" d="M16.517,22.653a1.4,1.4,0,0,0,1.4-1.4V19.934a4.8,4.8,0,0,0,3.668-4.539c0-2.933-2.225-4.335-3.854-5.356-1.4-.882-2.048-1.364-2.048-2.051a.482.482,0,0,1,.168-.371,1.073,1.073,0,0,1,.763-.251c.5,0,.8.232,1.4.928a1.39,1.39,0,0,0,1.974.139,1.408,1.408,0,0,0,.168-1.977,5.212,5.212,0,0,0-2.234-1.671V3.4a1.4,1.4,0,0,0-2.793,0V4.841a3.726,3.726,0,0,0-1.182.724,3.3,3.3,0,0,0-1.052,2.423c0,2.311,1.862,3.481,3.351,4.418s2.551,1.671,2.551,2.989a2.027,2.027,0,0,1-2.057,1.856,3.1,3.1,0,0,1-2.718-1.856,1.38,1.38,0,0,0-1.862-.659,1.4,1.4,0,0,0-.661,1.856,6.036,6.036,0,0,0,3.631,3.184v1.411a1.394,1.394,0,0,0,1.4,1.467Z"/>
+        </g>
+        <text id="Created_by_Martins_Ratkus" data-name="Created by Martins Ratkus" transform="translate(0 49)" font-size="5" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Created by Martins Ratkus</tspan></text>
+        <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(0 54)" font-size="5" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+      </g>
+    </g>
+    <path id="Path_77" data-name="Path 77" d="M10.609,12.634a.554.554,0,0,0-.9,0L5.1,19.093a.709.709,0,0,0-.069.682.572.572,0,0,0,.518.364H7.434V31.044a.612.612,0,0,0,.574.644h4.3a.612.612,0,0,0,.574-.644V20.139h1.882a.572.572,0,0,0,.518-.365.707.707,0,0,0-.069-.681Zm1.7,6.217a.612.612,0,0,0-.574.644V30.4H8.584V19.495a.612.612,0,0,0-.574-.644H6.748l3.413-4.784,3.413,4.784Z" transform="translate(1987.022 -1102.171)"/>
+  </g>
+</svg>

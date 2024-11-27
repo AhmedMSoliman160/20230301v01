@@ -1,0 +1,220 @@
+.calendar {
+  position: relative;
+  overflow: hidden;
+  text-transform: capitalize;
+  text-align: center;
+  font: 13px/1em inherit;
+  color: #545a5c;
+  border: 1px #d6d6d6 solid;
+  border-radius: 6px;
+  font-weight: 100;
+  padding-bottom: 10px;
+}
+.calendar a {
+  text-decoration: none;
+  color: inherit;
+}
+.calendar header .simple-calendar-btn {
+  display: inline-block;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  color: #000;
+  border-radius: 50%;
+  left: 155px;
+  margin-top: 12px;
+}
+
+[dir="rtl"] .calendar header .simple-calendar-btn {
+  right: 170px;
+  left: auto;
+}
+.calendar header .simple-calendar-btn:hover {
+  /*background: #cbd1d2;*/
+  color: #1a6f5d;
+}
+.calendar header .simple-calendar-btn:before {
+  content: "";
+  position: absolute;
+  top: 9px;
+  left: 12px;
+  width: 12px;
+  height: 12px;
+  border-style: solid;
+  border-width: 2px 2px 0 0;
+  transform: rotate(45deg);
+  transform-origin: center center;
+}
+.calendar header .btn-prev {
+  top: 0;
+  /*left: 0;*/
+  transform: rotate(-180deg);
+}
+.calendar header .btn-next {
+  top: 0;
+  margin-left: 25px;
+  margin-right: 25px;
+  /*right: 0;*/
+}
+
+[dir="rtl"] .calendar header .btn-next {
+  margin-left: 0;
+  margin-right: -15px;
+}
+
+.calendar header .btn-next:before {
+  transform: rotate(45deg);
+}
+.calendar header .month {
+  padding: 15px;
+  text-align: left;
+  font-size: 17px;
+  margin: 0;
+}
+
+[dir="rtl"] .calendar header .month {
+  text-align: right;
+}
+
+.calendar header .month .year {
+  font-size: 17px;
+  font-weight: 100;
+  display: inline-block;
+}
+.calendar table {
+  width: 100%;
+  margin: 0;
+  border-spacing: 0px;
+}
+.calendar thead {
+  font-size: 12px;
+  font-weight: 600;
+}
+.calendar td {
+  padding: 0.1em 0.1em;
+}
+.calendar .day {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  font-weight: 400;
+  line-height: 2em;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+}
+.calendar .day:hover {
+  /* border: 2px solid #d6d6d6;*/
+}
+.calendar .day.today {
+  background: #3fbca1;
+  border: 1px #1a6f5d solid;
+  color: #000;
+}
+
+.calendar .day.has-event {
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  background: #f6f7f8;
+  border: 1px solid #d6d6d6;
+}
+.calendar .day.today.has-event:after {
+  background: white;
+}
+.calendar .day.wrong-month {
+  color: #cbd1d2;
+}
+.calendar .day.wrong-month:hover {
+  border: 2px solid transparent;
+}
+/*.calendar .day.has-event::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  z-index: 0;
+  left: 0;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  background: transparent;
+}*/
+.calendar .day.disabled {
+  cursor: default;
+}
+.calendar .day.disabled:hover {
+  border: 2px solid transparent;
+}
+.calendar .event-container {
+  display: none;
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 70px;
+  background: #545a5c;
+  box-sizing: border-box;
+}
+.calendar .event-container .event-wrapper {
+  overflow-y: auto;
+  max-height: 100%;
+}
+.calendar .event-container .close {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+.calendar .event-container .close:before,
+.calendar .event-container .close:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 2px;
+  height: 100%;
+  background-color: #cbd1d2;
+}
+.calendar .event-container .close:before {
+  transform: rotate(45deg);
+}
+.calendar .event-container .close:after {
+  transform: rotate(-45deg);
+}
+.calendar .event-container .event {
+  position: relative;
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 1em;
+  background: #6691cc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.12);
+  text-align: left;
+  color: white;
+}
+.calendar .event-container .event-date {
+  margin-bottom: 1em;
+}
+.calendar .event-container .event-hour {
+  float: right;
+}
+.calendar .event-container .event-summary {
+  font-weight: 600;
+}
+.calendar .filler {
+  position: absolute;
+  width: 0;
+  display: none;
+  height: 0;
+  border-radius: 50%;
+  background: #545a5c;
+  transform: translate(-50%, -50%);
+}
