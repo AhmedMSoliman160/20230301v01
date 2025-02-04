@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.02" height="19" viewBox="0 0 19.02 19">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="19" height="19" transform="translate(0.02)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_97" data-name="Group 97" transform="translate(-1991.996 1092.12)">
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(1991.996 -1092.12)" clip-path="url(#clip-path)">
+      <g id="noun-price-range-4960922" transform="translate(0.003 1.442)">
+        <g id="Group_94" data-name="Group 94" transform="translate(8.954 0)">
+          <path id="Path_70" data-name="Path 70" d="M15.424,18.29a1.1,1.1,0,0,0,1.1-1.1V16.148a3.781,3.781,0,0,0,2.889-3.576c0-2.31-1.753-3.415-3.036-4.219-1.1-.695-1.613-1.074-1.613-1.616a.38.38,0,0,1,.132-.292.845.845,0,0,1,.6-.2c.394,0,.63.183,1.1.731a1.095,1.095,0,0,0,1.555.109,1.109,1.109,0,0,0,.132-1.557,4.106,4.106,0,0,0-1.76-1.316V3.124a1.1,1.1,0,0,0-2.2,0V4.259a2.935,2.935,0,0,0-.931.57,2.6,2.6,0,0,0-.829,1.909c0,1.82,1.467,2.742,2.64,3.48s2.01,1.316,2.01,2.355a1.6,1.6,0,0,1-1.62,1.462,2.442,2.442,0,0,1-2.141-1.462,1.087,1.087,0,0,0-1.467-.519,1.1,1.1,0,0,0-.521,1.462,4.755,4.755,0,0,0,2.86,2.508v1.111a1.1,1.1,0,0,0,1.1,1.156Z" transform="translate(-11.366 -2.099)"/>
+        </g>
+        <text id="Created_by_Martins_Ratkus" data-name="Created by Martins Ratkus" transform="translate(0 33.749)" font-size="2" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Created by Martins Ratkus</tspan></text>
+        <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(0 37.688)" font-size="2" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+      </g>
+    </g>
+    <path id="Path_77" data-name="Path 77" d="M9.413,12.585a.436.436,0,0,0-.709,0L5.073,17.673a.559.559,0,0,0-.054.537.451.451,0,0,0,.408.287H6.912v8.59a.482.482,0,0,0,.452.507h3.387a.482.482,0,0,0,.452-.507V18.5h1.483a.451.451,0,0,0,.408-.288.557.557,0,0,0-.054-.536Zm1.339,4.9a.482.482,0,0,0-.452.507v8.59H7.818V17.99a.482.482,0,0,0-.452-.507H6.371L9.06,13.714l2.689,3.769Z" transform="translate(1987.022 -1102.651)"/>
+  </g>
+</svg>
