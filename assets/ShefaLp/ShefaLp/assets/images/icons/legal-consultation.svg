@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.172" height="23.235" viewBox="0 0 20.172 23.235">
+  <g id="legal-consultation" transform="translate(0.5 0.5)">
+    <g id="Group_655" data-name="Group 655">
+      <g id="Group_654" data-name="Group 654" transform="translate(3.673)">
+        <g id="Group_653" data-name="Group 653">
+          <circle id="Ellipse_51" data-name="Ellipse 51" cx="2.735" cy="2.735" r="2.735" transform="translate(3.181 0)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_3247" data-name="Path 3247" d="M730,1194.79h-5.256a3.285,3.285,0,0,0-3.285,3.285v1.971h11.825v-1.971A3.285,3.285,0,0,0,730,1194.79Z" transform="translate(-721.462 -1187.031)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+      <path id="Path_3248" data-name="Path 3248" d="M241.5,1191.5v2.281c.1,2.067,1.73,2.281,2.739,2.281l.913,4.562H257.02l.913-4.562c.423,0,2.727.093,2.739-2.281V1191.5Z" transform="translate(-241.5 -1178.389)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
