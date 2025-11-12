@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18290" data-name="Rectangle 18290" width="29.25" height="23.243" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6271" data-name="Group 6271" transform="translate(-58 -638)">
+    <rect id="Rectangle_18273" data-name="Rectangle 18273" width="34" height="34" rx="5" transform="translate(58 638)" fill="rgba(63,188,161,0.1)"/>
+    <g id="Group_6036" data-name="Group 6036" transform="translate(-4940.125 356.93)">
+      <g id="Group_6035" data-name="Group 6035" transform="translate(5001 286.921)">
+        <path id="Path_56881" data-name="Path 56881" d="M222.576-355.851c.017-.308.034-.675.034-1.06a11.072,11.072,0,0,0,4.71-.539,3.12,3.12,0,0,0,2.385,2.3A3.606,3.606,0,0,1,225.8-351.8a3.245,3.245,0,0,1-2.274-1.111,3.622,3.622,0,0,1-.974-2.462c.009-.137.017-.3.026-.479Zm-.017-1.983a4,4,0,0,1-.068-1.829c.034-.12.154-.4.273-.367,2.41.744,2.351-.009,3.684.094a3.626,3.626,0,0,1,3.342,3.838v.043a2.269,2.269,0,0,1-1.692-2.051.447.447,0,0,0-.607-.35,10.075,10.075,0,0,1-4.932.624Z" transform="translate(-211.772 365.548)" fill="#033"/>
+        <g id="Mask_Group_17" data-name="Mask Group 17" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <g id="noun-happy-boy-1578736" transform="translate(0 6.831)">
+            <g id="Group_6034" data-name="Group 6034" transform="translate(0 0)">
+              <path id="Path_56879" data-name="Path 56879" d="M45.59,108.538l-1.809,13.048a1.93,1.93,0,0,0,3.824.53L49,112.05h1.884l1.4,10.066a1.93,1.93,0,0,0,3.824-.53L54.3,108.538Z" transform="translate(-35.62 -89.281)" fill="#033"/>
+              <path id="Path_56880" data-name="Path 56880" d="M.5,7.365l9.578,7.478v8.519h8.487V14.844l9.579-7.478a1.3,1.3,0,1,0-1.6-2.053l-9.635,7.523H11.739L2.1,5.312A1.3,1.3,0,1,0,.5,7.365Z" transform="translate(0 -5.036)" fill="#033"/>
+            </g>
+            <text id="Created_by_Gan_Khoon_Lay" data-name="Created by Gan Khoon Lay" transform="translate(0 37.361)" fill="#033" font-size="1" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Created by Gan Khoon Lay</tspan></text>
+            <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(0 38.291)" fill="#033" font-size="1" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+          </g>
+        </g>
+      </g>
+      <path id="Path_56882" data-name="Path 56882" d="M141.426,58.525l-1.479-.783a.336.336,0,1,0-.315.595l1.479.783a.336.336,0,1,0,.315-.595Z" transform="translate(4866.439 232.151)" fill="#033"/>
+      <path id="Path_56883" data-name="Path 56883" d="M154.256,12.7a.336.336,0,0,0,.484-.468l-2.861-2.958a.336.336,0,0,0-.484.468Z" transform="translate(4855.588 276.599)" fill="#033"/>
+      <path id="Path_56884" data-name="Path 56884" d="M241.441,4.306a.337.337,0,0,0,.337-.336V.336a.336.336,0,1,0-.673,0V3.969A.336.336,0,0,0,241.441,4.306Z" transform="translate(4773.338 285)" fill="#033"/>
+      <path id="Path_56885" data-name="Path 56885" d="M313.1,15.588a.336.336,0,0,0,.465-.1l2.25-3.5a.336.336,0,1,0-.566-.364l-2.25,3.5A.336.336,0,0,0,313.1,15.588Z" transform="translate(4707.538 274.5)" fill="#033"/>
+      <path id="Path_56886" data-name="Path 56886" d="M343.679,57.06a.336.336,0,0,0,.433.2l1.762-.656a.337.337,0,0,0-.235-.631l-1.762.656A.336.336,0,0,0,343.679,57.06Z" transform="translate(4679.412 233.756)" fill="#033"/>
+    </g>
+  </g>
+</svg>

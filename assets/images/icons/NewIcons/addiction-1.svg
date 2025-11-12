@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18281" data-name="Rectangle 18281" width="23" height="22" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6267" data-name="Group 6267" transform="translate(-58 -763)">
+    <rect id="Rectangle_18275" data-name="Rectangle 18275" width="34" height="34" rx="5" transform="translate(58 763)" fill="rgba(63,188,161,0.1)"/>
+    <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(63.5 769.4)" clip-path="url(#clip-path)">
+      <g id="noun-injection-7352885" transform="translate(0.48 0.136)">
+        <path id="Path_56811" data-name="Path 56811" d="M25.91,10.675,21.641,6.406l.768-.723,4.216,4.278Zm-3.154,4.1,1.04-.99-5.28-5.344-.984.984ZM10.992,23.033l-1.21,1.157L9,23.408l0,0L5.437,26.9a.256.256,0,0,1-.36-.365l3.563-3.494-.783-.783L9.039,21.08Zm3.489-1.617,1.263-1.237-1.043-1.1h0a.256.256,0,0,1,.371-.353l1.037,1.1,1.3-1.273-.421-.445a.256.256,0,0,1,.371-.353l.416.439,1.292-1.265L18,15.858a.257.257,0,0,1,.363-.363l1.071,1.071,2.226-2.179L17.933,10.57l-9.4,9.274,3.739,3.739,1.846-1.808-.421-.444h0a.256.256,0,1,1,.372-.353l.416.439ZM20.148,9.367,22.9,12.151,24.806,10.3,22.012,7.5Z" transform="translate(-5 -5.683)" fill="#033" fill-rule="evenodd"/>
+        <text id="Created_by_MARADONNA" data-name="Created by MARADONNA" transform="matrix(-1, 0, 0, 1, 22.825, 26.105)" fill="#033" font-size="1" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Created by MARADONNA</tspan></text>
+        <text id="from_Noun_Project" data-name="from Noun Project" transform="matrix(-1, 0, 0, 1, 22.825, 27.306)" fill="#033" font-size="1" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">from Noun Project</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

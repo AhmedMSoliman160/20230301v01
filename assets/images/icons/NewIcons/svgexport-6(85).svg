@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18282" data-name="Rectangle 18282" width="24" height="22" transform="translate(4284 430.825)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6268" data-name="Group 6268" transform="translate(-58 -638)">
+    <rect id="Rectangle_18273" data-name="Rectangle 18273" width="34" height="34" rx="5" transform="translate(58 638)" fill="rgba(63,188,161,0.1)"/>
+    <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(-4221 213.175)" clip-path="url(#clip-path)">
+      <g id="noun-gender-6142845" transform="translate(4284 433.286)">
+        <g id="Group_6028" data-name="Group 6028" transform="translate(0.589 0)">
+          <path id="Path_56812" data-name="Path 56812" d="M60.174,19.955a5.443,5.443,0,0,0-3.037-1.53v-4.5l1.154,1.154a.866.866,0,0,0,1.224-1.224L56.878,11.2a.881.881,0,0,0-1.224,0l-2.637,2.637a.866.866,0,0,0,1.224,1.224L55.4,13.9v4.5a5.379,5.379,0,0,0-3.013,1.53,5.51,5.51,0,1,0,7.792.024ZM58.95,26.5a3.779,3.779,0,1,1,0-5.344A3.765,3.765,0,0,1,58.95,26.5Z" transform="translate(-39.41 -10.95)" fill="#033"/>
+          <path id="Path_56813" data-name="Path 56813" d="M8.009,12.9a5.508,5.508,0,0,0-.871,10.947v2.872H5.866A.869.869,0,0,0,5,27.59a.884.884,0,0,0,.871.871H7.138v1.53a.871.871,0,0,0,1.742,0v-1.53h1.271a.869.869,0,0,0,.871-.871.884.884,0,0,0-.871-.871H8.88v-2.9A5.5,5.5,0,0,0,8.009,12.9Zm0,9.275a3.767,3.767,0,1,1,3.767-3.767A3.778,3.778,0,0,1,8.009,22.175Z" transform="translate(-2.5 -12.441)" fill="#033"/>
+        </g>
+        <text id="Created_by_Adrien_Coquet" data-name="Created by Adrien Coquet" transform="translate(0 24.318)" font-size="1" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Created by Adrien Coquet</tspan></text>
+        <text id="from_the_Noun_Project" data-name="from the Noun Project" transform="translate(0 25.495)" font-size="1" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">from the Noun Project</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
