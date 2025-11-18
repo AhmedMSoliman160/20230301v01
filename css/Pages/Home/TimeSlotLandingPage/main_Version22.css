@@ -1132,11 +1132,23 @@ input[type="radio"] {
     transition: all 0.3s ease;
     border: 1px solid #e9e9e9bd;
 }
-
+.RatingCustomized{
+    width:38%;
+}
 @media (max-width: 480px) {
+    .RatingCustomized {
+        width: 34%;
+    }
+    .fristRow .secondRow{
+        padding:0 3px;
+    }
+    .mayoura {
+        width: 80% !important;
+        align-items: center !important;
+    }
     .card {
-        padding: 10px;
-        width: 92%;
+        padding: 10px 3px;
+        width: 97%;
         margin-bottom: 25px;
     }
 
