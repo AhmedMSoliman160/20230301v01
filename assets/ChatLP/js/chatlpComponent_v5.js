@@ -151,10 +151,10 @@
         });
 
         // Current expert
-        var currentExpert = { avatar: "https://pic.esaal.me/images/ChatRevamp_DefaultImage.jpg", name: "مساعد خبير اسأل", role: "مساعد خبير اسأل " };
+var currentExpert = { avatar: "https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/pic/images/experts/ExpertAssistant2025_12_09.jpg", name: "مساعد خبير اسأل", role: "مساعد خبير اسأل " };
         var fakeIndex = 0;
         var typingTimer = null;
-        var Fake = ["كيف يمكنني مساعدتك؟", "يرجي الإنتظار 3 دقائق"];
+        var Fake = ["كيف يمكنني مساعدتك؟", "يرجى الإشتراك للرد على أسألتكم"];
 
         // Always refer to the messages container
         function getMessagesContainer() {
@@ -250,7 +250,7 @@
                 if (!slide.length || slide.hasClass("swiper-slide-duplicate")) return;
 
                 // Extract info
-                var img = "https://pic.esaal.me/images/ChatRevamp_DefaultImage.jpg";
+                var img = "https://cdn.statically.io/gh/AhmedMSoliman160/20230301v01/main/pic/images/experts/ExpertAssistant2025_12_09.jpg";
                 var name = "مساعد خبير اسأل";
                 var role = "مساعد خبير اسأل";
 
